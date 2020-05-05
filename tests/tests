@@ -1,0 +1,3 @@
+driver.find_element(By.NAME, "username")
+driver.find_element(By.NAME, "password")
+driver.find_element(By.VALUE, "Log in")
